@@ -37,7 +37,7 @@ redirect_from:
 
 ## Publications
 
-You can also find my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate). The complete list is available on the [Publications page]({{ base_path }}/publications/).
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate). The complete list is available on the [Publications page]({{ site.url }}{{ site.baseurl }}/publications/).
 
 ### 2025
 
